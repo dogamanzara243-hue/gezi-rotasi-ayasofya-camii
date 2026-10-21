@@ -20,7 +20,7 @@ const SPOT_DATA = {
     whyVisit: [{ icon: "fa-solid fa-star", title: "Tarihi Doku", description: "Eşsiz mimari ve tarihi keşfedin." }],
     mustSee: [{ image: "https://images.unsplash.com/photo-1568832359672-e36cf5d74f54?auto=format&fit=crop&w=1600&q=80", title: "Ana Bölüm", description: "Mutlaka görülmeli." }],
     transportation: {
-        methods: [{ icon: "fa-solid fa-bus", title: "Toplu Taşıma", description: "Kolay ulaşım." }],
+        methods: [{ icon: "fa-solid fa-bus", title: "Toplu Taşıma", detail: "Kolay ulaşım." }],
         tip: "Erken saatlerde ziyaret ediniz.",
         mapUrl: "https://www.google.com/maps"
     },
