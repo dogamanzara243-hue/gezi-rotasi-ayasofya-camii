@@ -1,7 +1,7 @@
 const SPOT_DATA = {
     theme: "history",
     hero: {
-        coverImage: "https://images.unsplash.com/photo-1568832359672-e36cf5d74f54?auto=format&fit=crop&w=1600&q=80",
+        coverImage: "https://images.unsplash.com/photo-1541432901042-2d8bd64b4a9b?auto=format&fit=crop&w=1600&q=80&fm=webp&q=ayasofya camii,turkey",
         category: "Tarihi Cami & Mimari Şaheser",
         badge: "UNESCO Dünya Mirası",
         title: "Ayasofya-i Kebir Cami-i Şerifi",
